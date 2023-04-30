@@ -18,3 +18,6 @@
 - https://stackoverflow.com/questions/53083952/difference-of-headless-browsers-for-automation
 
 - seo https://seon.io/resources/browser-fingerprinting/
+
+- usr bin local için cm shift g
+
