@@ -21,3 +21,5 @@
 
 - usr bin local için cm shift g
 
+- https://github.com/pluralsight/git-internals-pdf
+
