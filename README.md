@@ -23,3 +23,5 @@
 
 - https://github.com/pluralsight/git-internals-pdf
 
+- SCM https://www.oracle.com/tr/scm/what-is-supply-chain-management/
+
