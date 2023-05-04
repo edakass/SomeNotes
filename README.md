@@ -28,3 +28,5 @@
 - MandrillMessage mesaj atmak icin java da kullaniliyor
 
 - :: is a new operator included in Java 8 that is used to refer to a method of an existing class. You can refer to static methods and non-static methods of a class. The only prerequisite for referring to a method is that the method exists in a functional interface, which must be compatible with the method reference.
+
+- https://www.programiz.com/java-programming/examples
