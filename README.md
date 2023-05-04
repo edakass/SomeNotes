@@ -25,3 +25,5 @@
 
 - SCM https://www.oracle.com/tr/scm/what-is-supply-chain-management/
 
+- MandrillMessage mesaj atmak icin java da kullaniliyor
+
