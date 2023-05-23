@@ -31,4 +31,5 @@
 
 - https://www.programiz.com/java-programming/examples
 
+- https://spring.academy/
 - https://blog.metu.edu.tr/e102792/2018/11/13/java-dynamic-proxy-class/
